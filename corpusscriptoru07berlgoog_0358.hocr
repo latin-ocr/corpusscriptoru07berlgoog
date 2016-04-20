@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./corpusscriptoru07berlgoog_0358.png"; bbox 0 0 2890 4860; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 425 1439 1106 1569">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 425 1439 1106 1569">
+     <span class='ocr_line' id='line_1_1' title="bbox 425 1439 1106 1569; baseline -0.001 -3"><span class='ocrx_word' id='word_1_1' title='bbox 425 1464 927 1569; x_wconf 60' lang='grc' dir='ltr'><em>[ΕΡΟΚΛΕΟΥΣ</em></span> <span class='ocrx_word' id='word_1_2' title='bbox 1104 1439 1106 1445; x_wconf 69' lang='grc'>’</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 226 1817 1128 1927">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 226 1817 1128 1927">
+     <span class='ocr_line' id='line_1_2' title="bbox 226 1817 1128 1927; baseline -0.007 -1"><span class='ocrx_word' id='word_1_3' title='bbox 226 1817 1128 1927; x_wconf 77' lang='lat' dir='ltr'><em>TPAMMATIKO&#39;Y</em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 458 2175 896 2256">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 458 2175 896 2256">
+     <span class='ocr_line' id='line_1_3' title="bbox 458 2175 896 2256; baseline -0.011 -2"><span class='ocrx_word' id='word_1_4' title='bbox 458 2175 896 2256; x_wconf 74' lang='grc' dir='ltr'><em>ΣΥΝΕΚΛΗΜΟΣ.</em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 0 0 1450 4860">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 0 0 1450 4860">
+     <span class='ocr_line' id='line_1_4' title="bbox 0 0 1450 4860; baseline 0 0"><span class='ocrx_word' id='word_1_5' title='bbox 0 0 1450 4860; x_wconf 95' lang='lat' dir='ltr'><em> </em></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
